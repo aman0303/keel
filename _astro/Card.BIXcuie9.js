@@ -1,0 +1,1 @@
+import{j as o}from"./jsx-runtime.D_zvdyIk.js";import{c as s}from"./utils.Bnjw0fwM.js";function n({children:r,classNames:e,as:a="div"}){return o.jsx(a,{className:s("rounded-2xl border border-brand-gray-100 shadow-sm bg-brand-white p-5 w-full flex flex-col justify-between",e?.cardWrapper),children:r})}export{n as C};

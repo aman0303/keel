@@ -1,0 +1,1 @@
+import{m as t}from"./index.CMJGZib5.js";const s=t({allPages:[],filteredPages:[]}),l=e=>{s.set({...s.get(),allPages:e,filteredPages:e})},g=e=>{s.set({...s.get(),filteredPages:e})};export{s as $,l as a,g as s};

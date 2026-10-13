@@ -1,0 +1,1 @@
+import{$ as r,s as a}from"./tocStore.C80rUTY_.js";import{m as c}from"./index.CMJGZib5.js";const s=c({}),i=()=>{const{allPages:t}=r.get(),{type:e}=s.get();if(!e||e==="all"){a(t);return}a(t.filter(o=>o.page_type===e))};s.subscribe(i);const g=t=>{s.set({type:t})};export{s as $,g as s};
